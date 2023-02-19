@@ -1,4 +1,4 @@
-<h1>Complete Web Based Inventory System (PHP and MySQL)</h1>
+<h1>Applicant Tracking System (PHP and MySQL)</h1>
 
 This project was written during my M.Tech second semester as a database mini-project.
 <h2>
